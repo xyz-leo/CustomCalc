@@ -42,7 +42,8 @@ How to Run the Project
     git clone https://github.com/xyz-leo/CustomCalc.git
     
     2. cd CustomCalc
-    pip install -r requirements.txt
+    Create a Python virtual environment
+    After activating the virtual environment: pip install -r requirements.txt
 
     Then, run it with: python3 main.py
     This will launch the calculator's graphical interface.
